@@ -1,5 +1,7 @@
 # Tic Tak Toe
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b1333c87-1872-4c31-9d1c-23197f7097b6/deploy-status)](https://app.netlify.com/sites/basic-tic-tac-toe-game/deploys)
+
 ### How to get started ?
 
 1. CLick on Green Code button and download the project
